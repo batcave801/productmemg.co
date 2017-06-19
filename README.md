@@ -1,1 +1,1 @@
-# productmemg.co
+# productmgmt.co
